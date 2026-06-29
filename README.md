@@ -3,21 +3,25 @@
 
 **Fullstack-разработчик** · **Веб-дизайнер**
 
-Сайты под ключ · API · Базы данных · Деплой
+Занимаюсь веб-разработкой и дизайном. Создаю сайты, которые не просто выглядят круто, но и приносят результат.
 
 ---
 
 ### 🛠 Технологии
 
-`HTML` `CSS` `JS` `React` `Node.js` `Python` `MongoDB` `PostgreSQL` `Git`
-
+HTML, CSS, JS, Three.js, GSAP, Node.js, Express, MongoDB, JWT, Figma, прототипирование
 ---
 
 ### 📂 Проекты
 
-🔹 [Веб-дизайн](ссылка_на_репозиторий_с_дизайном)  
-🔹 [Бэкенд-разработка](ссылка_на_репозиторий_с_бэкендом)  
-🔹 [Живой сайт](ссылка_на_работающий_сайт)
+🔹### 🏋️ FORTIS — лендинг спортивного курса
+- **Демо:** [fortis-landing.vercel.app](https://fortis-landing.vercel.app)
+- **Репозиторий с кодом:** [github.com/твой_ник/fortis-dev](https://github.com/твой_ник/fortis-dev)
+- **Дизайн-концепция:** [github.com/твой_ник/fortis-design](https://github.com/твой_ник/fortis-design)
+- **Бэкенд API:** [fortis-api.onrender.com](https://fortis-api.onrender.com)
+
+🔹 
+🔹
 
 ---
 
