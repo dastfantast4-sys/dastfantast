@@ -15,9 +15,8 @@ HTML, CSS, JS, Three.js, GSAP, Node.js, Express, MongoDB, JWT, Figma, прото
 ### 📂 Проекты
 
 🔹### 🏋️ FORTIS — лендинг спортивного курса
-- **Демо:** [fortis-landing.vercel.app](https://fortis-landing.vercel.app)
+- **Демо:** [fortis-landing.vercel.app](https://fortis-landing.vercel.app) - Продемонтрирован дизайн и работа бекенда в реальном времени (окно в правом нижнем углу)
 - **Репозиторий с кодом:** [github.com/твой_ник/fortis-dev](https://github.com/твой_ник/fortis-dev)
-- **Дизайн-концепция:** [github.com/твой_ник/fortis-design](https://github.com/твой_ник/fortis-design)
 - **Бэкенд API:** [fortis-api.onrender.com](https://fortis-api.onrender.com)
 
 🔹 
