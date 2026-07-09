@@ -16,7 +16,7 @@ HTML, CSS, JS, Three.js, GSAP, Node.js, Express, MongoDB, JWT, Figma, прото
 
 🔹### 🏋️ FORTIS — лендинг спортивного курса
 - **Демо:** (https://dastfantast4-sys.github.io/fortis-dev/) - Продемонтрирован дизайн и работа бекенда в реальном времени (окно в правом нижнем углу)
-- **Репозиторий с кодом:** ()
+- **Репозиторий с кодом:** (https://github.com/dastfantast4-sys/fortis-dev/blob/43bfe593fe96f505edb9f72ea81f737cb511bdd3/frontend/index.html)
 - **Бэкенд API:** (https://github.com/dastfantast4-sys/fortis-b/blob/d2f26dabdb91c7d18c37a8c744c0f0a577b33125/README.md)
 
 🔹 
@@ -26,7 +26,7 @@ HTML, CSS, JS, Three.js, GSAP, Node.js, Express, MongoDB, JWT, Figma, прото
 
 ### 📫 Контакты
 
-[Telegram](https://t.me/твой_ник) · [Email](mailto:твоя@почта.ru)
+[Telegram](@) · [Email](mailto:dastfantast4@gmail.com)
 
 ---
 
