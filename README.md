@@ -1,5 +1,5 @@
-# dastfantast
-# Привет! 👋 Я [Dast]
+#dastfantast
+# Приветствую! 👋 Я Dast
 
 **Fullstack-разработчик** · **Веб-дизайнер**
 
