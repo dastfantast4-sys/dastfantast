@@ -26,7 +26,7 @@ HTML, CSS, JS, Three.js, GSAP, Node.js, Express, MongoDB, JWT, Figma, прото
 
 ### 📫 Контакты
 
-[Telegram](@) · [Email](mailto: dastfantast4@gmail.com)
+[Telegram](@) · [Email](dastfantast4@gmail.com)
 
 ---
 
