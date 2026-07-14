@@ -4,6 +4,9 @@
 
 Занимаюсь веб-разработкой и дизайном. Делаю практически все ✨.
 > ⚡️ Напишите мне, и я предложу решение под ваш бизнес. Работаю быстро, качественно, без лишней воды.
+### 📫 Контакты
+
+Telegram:(@) · Email:(dastfantast4@gmail.com)
 
 ---
 
@@ -21,11 +24,5 @@ HTML, CSS, JS, Three.js, GSAP, Node.js, Express, MongoDB, JWT, Figma, прото
 
 🔹 
 🔹
-
----
-
-### 📫 Контакты
-
-Telegram:(@) · Email:(dastfantast4@gmail.com)
 
 ---
