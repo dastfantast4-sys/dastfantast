@@ -25,7 +25,7 @@ HTML, CSS, JS, Three.js, GSAP, Node.js, Express, MongoDB, JWT, Figma, прото
 🔹🛍 NEBULA - интернет магизин мебели
 - **Демо:** (https://dastfantast4-sys.github.io/nebula/)
 - **Полное описание:** (https://github.com/dastfantast4-sys/nebula/blob/53be6fed1e3b291f271545f13578c76dba87bc37/README.md)
-- **Репозиторий с кодом:** ()
+- **Репозиторий с кодом:** (https://github.com/dastfantast4-sys/nebula)
 🔹
 
 ---
