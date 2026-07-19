@@ -24,7 +24,7 @@ Telegram:(@) · Email:(dastfantast4@gmail.com)
 🔹
 
 ---
-### 🛠 Технологии
+🛠 Технологии
 
 HTML, CSS, JS, Three.js, GSAP, Node.js, Express, MongoDB, JWT, Figma, прототипирование
 ---
