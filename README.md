@@ -10,11 +10,6 @@ Telegram:(@) · Email:(dastfantast4@gmail.com)
 
 ---
 
-### 🛠 Технологии
-
-HTML, CSS, JS, Three.js, GSAP, Node.js, Express, MongoDB, JWT, Figma, прототипирование
----
-
 ### 📂 Проекты
 
 🔹🏋️ FORTIS - лендинг спортивного курса
@@ -28,4 +23,8 @@ HTML, CSS, JS, Three.js, GSAP, Node.js, Express, MongoDB, JWT, Figma, прото
 - **Репозиторий с кодом:** (https://github.com/dastfantast4-sys/nebula)
 🔹
 
+---
+### 🛠 Технологии
+
+HTML, CSS, JS, Three.js, GSAP, Node.js, Express, MongoDB, JWT, Figma, прототипирование
 ---
