@@ -13,14 +13,14 @@ Telegram:(@) · Email:(dastfantast4@gmail.com)
 ### 📂 Проекты
 
 🔹🏋️ FORTIS - лендинг спортивного курса
-- **Демо:** (https://dastfantast4-sys.github.io/fortis-dev/) - Продемонтрирован дизайн и работа бекенда в реальном времени (отправляйте тестовую заявку, увидите подтверждение отправки в окошке в правом нижнем углу (API-тестер для проверки отправки заявок на сервер с логом ответов)), также возможна реализация с отправкой форм на ваш почтовой адрес.
+- **Демо:** (https://dastfantast4-sys.github.io/fortis-dev/) - Продемонтрирован дизайн и работа бекенда в реальном времени (API-тестер для проверки отправки заявок на сервер с логом ответов в правом нижнем углу), также возможна реализация с отправкой форм на ваш почтовой адрес, возможна реализация с интерфейсом для администрации.
 - **Бэкенд API:** (https://github.com/dastfantast4-sys/fortis-b/blob/d2f26dabdb91c7d18c37a8c744c0f0a577b33125/README.md)
 - **Репозиторий с кодом:** (https://github.com/dastfantast4-sys/fortis-dev/blob/43bfe593fe96f505edb9f72ea81f737cb511bdd3/frontend/index.html)
   
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d97eaa2b-554f-4294-ae91-908ecdfc7822" />
 
 🔹🛍 NEBULA - интернет магизин мебели
-- **Демо:** (https://dastfantast4-sys.github.io/nebula/)
+- **Демо:** (https://dastfantast4-sys.github.io/nebula/) - 
 - **Полное описание:** (https://github.com/dastfantast4-sys/nebula/blob/53be6fed1e3b291f271545f13578c76dba87bc37/README.md)
 - **Репозиторий с кодом:** (https://github.com/dastfantast4-sys/nebula)
 
